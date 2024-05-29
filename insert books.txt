@@ -1,0 +1,62 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "pages": 336,
+    "genre": "Fiction"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "pages": 328,
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "pages": 432,
+    "genre": "Classic"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "pages": 180,
+    "genre": "Fiction"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "pages": 585,
+    "genre": "Adventure"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "pages": 209,
+    "genre": "Modernist"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "pages": 288,
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "pages": 224,
+    "genre": "Coming-of-age"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "pages": 1178,
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "pages": 671,
+    "genre": "Philosophical"
+  }
+]
